@@ -39,7 +39,7 @@ img {
   height: 150px;
   width: 150px;
   background-color: turquoise;
-  border: 5px solid black;
+  border: 2px solid black;
   z-index: 1;
   position: relative;
   top: 120px;
@@ -48,7 +48,7 @@ img {
 ul#right-bottons li {
   display: inline;
   font: 18px;
-  color: aqua;
+  color: black;
 }
 #right-bottons {
   border: 2px solid black;
@@ -68,7 +68,7 @@ ul#right-bottons li {
 #like {
   border: none;
   color: rebeccapurple;
-  padding: 10px 20px;
+  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
